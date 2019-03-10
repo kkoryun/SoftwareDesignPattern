@@ -1,0 +1,7 @@
+build/
+
+#VS
+.vs/
+
+#CMake
+*.user
